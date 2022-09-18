@@ -1,0 +1,990 @@
+.color-Yellow {
+  background-color: #ff5400;
+  color: white;
+  border:  1px solid #ff5400;
+  border-radius: 5px;
+  padding: 6px 20px;
+}  
+.color-Yellow:hover {
+    border: 1px solid #ff5400;
+    background: none;
+    color: #ff5400;
+    padding: 6px 20px;
+    border-radius: 5px;
+}
+
+.color-btn {
+    background-color: #fff;
+  color: #ff5400;
+  border:  1px solid #ff5400;
+  border-radius: 8px;
+  padding: 6px 20px;
+}
+
+.color-btn:hover {
+    border: 1px solid #ff5400;
+    background: #ff5400;
+    color: #ffff;
+    padding: 6px 20px;
+    border-radius: 8px;
+}
+.navListText {
+  color: #85817e !important ;
+  cursor: pointer;
+  font-weight: 500;
+}
+.navListText:hover {
+    color: #ff5400 !important  ;
+    border-bottom: 1px solid #ff5400;
+}
+
+.Certified {
+  color: #ff5400;
+  font-family: serif;
+    font-weight: 600;
+}
+
+.skilled {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 50px;
+  font-family: sans-serif; 
+  color: black;
+}
+
+.Creative {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  font-family: sans-serif;
+  color: #85817e;
+}
+
+.sectionFix {
+  margin: 0px 50px;
+}
+
+.UxDeSign p{
+  border-top: 1px solid#ff5400 ;
+  color: #ff5400;
+  margin: 0px 12px; 
+}
+
+.Popular h5 {
+  color: #b3b3b3;
+}
+
+.trusted  {
+  background: #f3f3f3;
+  width: 100%;
+    height: 200px;
+  padding: 3.5rem 0px;
+
+}
+
+.trusted h4 {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.social p {
+  margin: 0px 25px;
+  color: #bbbaba;
+  font-weight: 700;
+  font-family: sans-serif;
+  font-size: 28px;
+}
+
+.TrackJob .fast {
+   text-align: center;
+   font-size: 28px;
+   font-weight: 600;
+   font-family: sans-serif;
+   margin-top: 30px;
+}
+
+.stepPera {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color:#85817e;
+}
+
+.row-cnt {
+  margin: 0px 5rem;
+  text-align: center;
+}
+.peraCreateOne p {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color:#85817e;
+}
+
+.peraCreateOne img {
+  width: 300px;
+}
+
+.peraCreateOne h4 {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+.row-second {
+  margin: 6rem 5.5rem 40px 5.5rem;
+  flex-wrap: wrap;
+}
+.peraCreateThree p {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color:#85817e;
+}
+
+.Listings {
+  background-color: #ff5400;
+  padding: 12px 50px;
+  border-radius: 25px;
+  color: #fff;
+  outline: #ff5400;
+  border: 1px solid #ff5400;
+}
+
+
+.UpdateDate {
+  text-align: end;
+  margin: 10px 18px;
+  color: #e96320;
+}
+
+.imageScreen img {
+  width: 250px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-body .employeeTime {
+  background-color: #f5b290;
+  padding: 3px 0px;
+  border-radius: 25px;
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+  outline: #ff5400;
+  border: 1px solid #f5b290;
+  margin: 6px 6px;
+  width: 100px;
+
+}
+
+.card-body .Fiance {
+  background-color: #ff5400;
+  padding: 3px 0px;
+  border-radius: 25px;
+  color: black;
+  font-size: 14px;
+  font-family: sans-serif;
+  width: 100px;
+  outline: #ff5400;
+  border: 1px solid #ff5400;
+  margin: 0px 6px;
+}
+
+.Manager {
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #545253;
+  margin: 12px 22px;
+  font-size: 14px;
+  text-align: left;
+}
+
+.country {
+  color: #454243;
+  margin: 12px 22px;
+  font-size: 14px;
+  text-align: left;
+}
+
+.responsibleManage p {
+  color: #858384;
+  text-align: left;
+  margin: 12px 22px;
+}
+
+.profileImg img {
+  width: 500px;
+}
+
+.employerSeat {
+  font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif; 
+}
+
+.sideTempo {
+  margin-top: 8%;
+}
+
+.iconSvg {
+  background: #eff0f2;
+  border-radius: 10px;
+  padding: 15px 12px;
+  /* width: 60px; */
+}
+
+.iconSvg svg {
+  font-size: 30px;
+ }
+
+ .highProfileText {
+  margin: 25px 0px;
+ }
+
+ .highProfileText h4 {
+  margin-top: 18px;
+  font-weight: 700;
+  font-family: sans-serif;
+ 
+
+ }
+
+ .highProfileText p {
+  color: #d7d7d6;
+  font-family: sans-serif;
+ }
+
+ .margin-r {
+   margin-right: 4rem;  
+ }
+
+ .margin-r2 {
+  margin-right: 1rem;
+ }
+
+ .searchbar {
+   position: relative;
+ }
+ .Search-Job {
+  background-color: #ff5400;
+  padding: 8px 50px;
+  border-radius: 25px;
+  color: #fff;
+  outline: #ff5400;
+  border: 1px solid #ff5400;
+  position: absolute;
+  right: 50px;
+  top: 16px;
+  
+ }
+.search_input::placeholder {
+  color: #9ea0a4;
+  font-weight: 500;
+  font-size: 18px;
+}
+ .search_input {
+  padding: 25px 70px;
+  width: 800px;
+  max-width: 800px;
+  outline: #ffff;
+  border: 1px solid #fff;
+  border-radius: 8px;
+ }
+
+ .UpdatesFeature {
+  background-color: #f3f3f3;
+  padding: 3rem 0px;  
+  height: 300px;
+
+ }
+ .UpdatesFeature h4  {
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+    font-weight: 700;
+    font-family: sans-serif;
+
+ }
+
+ .UpdatesFeature p {
+    font-size: 18px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+
+ }
+
+ .section-spacing {
+  margin: 10% 0px;
+ }
+
+
+ .lineFooter {
+  height: 1px;
+  margin-top: 5%;
+  width: 100%;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+ }
+
+ .circleTag {
+  height: 25px;
+  width: 25px;
+  background-color: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 7px;
+  text-align: center;
+ 
+ }
+
+ .colorOne {
+  color: #1976d2;
+ }
+ .colorTwo {
+  color: rgb(252, 175, 69);
+ }
+
+ .colorThree {
+  color: #09a9eb;
+ }
+.microsoft {
+  margin-top: 8px;
+}
+ .micro {
+  margin-right: 4px;
+ }
+ .rec.rec-arrow-left {
+  background-color: red;
+ }
+ .rec.rec-arrow-right {
+  background-color: red;
+ }
+ .rec.rec-arrow-left:hover:enabled,
+.rec.rec-arrow-right:hover:enabled{
+    background-color: red;
+    box-shadow: 0 0 1px 3px red;
+    border: 1px solid red;
+}
+.rec-pagination button {
+  background-color: red;
+  border: 1px solid red ;
+  outline: none;
+}
+
+.MainDemand {
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  border: 1px solid #bbbaba;
+  color: #000;
+  border-radius: 8px;
+  padding: 0% 20px 0px 20px;
+
+}
+.carousalList {
+  margin-bottom: 50px;
+}
+.MainDemand h4 {
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 0.5;
+  margin-top: 12px;
+}
+
+.MainDemand p {
+  text-align: left;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 10px;
+    
+}
+
+.MainDemand:hover {
+  background-color: #f5b290;
+  border: 1px solid #f5b290;
+  color: #fff;
+  border-radius: 8px;
+}
+.demand  {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: sans-serif;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+.iconLine {
+  text-align: left;
+  padding: 2% 20px 0px 20px;
+
+}
+
+.iconLine svg {
+  font-size: 140px;
+
+}
+
+.fixTrMargin {
+  margin-top: -2.5rem;
+}
+
+.TrackJob {
+  margin-top: 6%;
+  margin-bottom: 0%;
+}
+
+.ContainColor {
+  background-color: rgb(248, 248, 248);
+    margin: 0px 50px;
+    width: 94%;
+}
+
+.Col-w {
+  padding: 12px 34px;
+}
+
+.Col-w p {
+  padding: 12px 34px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.Col-w svg {
+  font-size: 24px;
+  margin-right: 5px;
+}
+
+.Col-w li {
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #85817e;
+}
+
+.bread {
+  margin: 20px 20px;
+}
+
+.b-home {
+  color: #858384;
+  font-family: sans-serif;
+  font-weight: 600;
+
+}
+
+.b-find {
+  color: #e96320;
+  margin-left: 3.5px;
+  font-family: sans-serif;
+  font-weight: 700;
+
+}
+
+.img2 {
+  width: 425px;
+  height: 325px;
+  margin-top: 12px;
+}
+
+.container-fix {
+  display: flex;
+  justify-content: center;
+}
+
+.col-text p {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #858384;
+}
+
+.col-header-text p {
+  color: #7d7c7c;
+  font-family: sans-serif;
+  margin-top: 25px;
+
+}
+
+.col-header-text h2 {
+  color: #717171;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 25px;
+}
+.R0w-e {
+  margin: 0px 50px;
+}
+
+.parentFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.collapse-Nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbr-Lets {
+  padding: 0px 0px 0px 6px !important ;
+  margin: -8px 0px 0px 0px !important ;
+}
+
+.AboutText {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.Similar {
+  margin-top: 35px;
+    margin-left: 20px;
+}
+.Result {
+  margin: 0px 50px;
+}
+.Result p {
+  font-size: 24px;
+  font-family: "outfit";
+  color: #ff5400;
+}
+
+.Result .numCount {
+  color: #85817e;
+
+}
+
+.Designer {
+  background: #ff5400;
+  height: auto;
+  padding: 5px 25px;
+  border-radius: 8px;  
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+/* .Designer:hover {
+  background: #ff5400;
+  height: auto;
+  padding: 5px 25px;
+  border-radius: 8px;  
+  border-color: #ff5400;
+  margin-right: 10px;
+  margin-bottom: 30px;
+} */
+
+.Graphic {
+  display: flex;
+  /* padding: 5px 25px; */
+  padding-top: 30px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.Design-G {
+  color: #ffff;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+.DayAgo {
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.Graphic p {
+  color: #ffff;
+
+}
+
+.RightDesigner {
+  height: auto;
+    background: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;    
+    border-radius: 10px;
+
+
+}
+.detailDesign {
+  display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #b8b8b8;
+    padding: 8px 30px;
+    align-items: center;
+}
+.detailDesign p {
+  font-size: 28px;
+  padding-top: 12px;
+  color: #ff5400;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.detailDesign button {
+  margin: 0px 50px;
+  border: 2px solid #ff5400;
+  color: #707070;
+  padding: 2px 27px;
+  border-radius: 3px;
+  background: #fff;
+  font-family: sans-serif;
+}
+
+.Tl-Grape-pera {
+  margin: 0px 30px;
+}
+.JobDl {
+  padding: 8px 28px;
+  background: #ececec;
+  border: 1px solid #ececec;
+  border-radius: 8px;
+  margin: 18px 0px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.Tl-Grape-pera .ful-l {
+  font-size: 24px;
+  font-family: sans-serif;
+  color: #000000;
+  font-weight: 500;
+  margin-bottom: 5px !important ;
+}
+
+.experience {
+  width: 600px;
+    text-align: justify;
+}
+
+
+.flexWork {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Remotely {
+  color: #000000;
+  font-size: 18px;
+  opacity: 1;
+}
+
+.Type {
+  color: #000000;
+  font-size: 18px;
+  opacity: 1;
+  margin-left: 30px;
+}
+
+.Work {
+  color: #393939;
+    font-size: 18px;
+    padding-right: 108px;
+  
+}
+.flexNew {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px -8px;
+}
+.fullTime {
+  color: #393939;
+  font-size: 18px;
+}
+.Adobe {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Adobe button {
+  padding: 7px 30px;
+  background: #ececec;
+  border: 1px solid #ececec;
+  border-radius: 25px;
+  color: #000;
+  font-size: 12px;
+  margin-right: 12px;
+}
+
+.activity {
+  padding: 12px 42px;
+  background: #ececec;
+  border: 1px solid #ececec;
+  border-radius: 8px;
+  color: #000;
+  font-size: 18px;
+  /* margin-top: 20px; */
+  margin: 20px 30px;
+}
+
+.lastFlex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px 34px;
+}
+
+.Report {
+  padding: 10px 20px;
+    background: #ececec;
+    border: 1px solid #ececec;
+    border-radius: 8px;
+    /* color: #0000; */
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.ApplyNow {
+  padding: 10px 40px;
+    background: #ff5400;
+    border: 1px solid #ff5400;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.PercentJob {
+  padding: 8px 16px;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  font-size: 11px;
+  color: #000;
+  font-family: sans-serif;
+}
+
+.fullJob {
+   margin-left: 20px;
+   margin-right: 20px;
+   font-size: 11px;
+   padding: 8px 16px;
+   background: #fff;
+   border: 1px solid #fff;
+   border-radius: 4px;
+   color: #000;
+   font-family: sans-serif;
+}
+
+.Minimum {
+  padding: 16px 0px;
+  color: #fff;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.ExperiencesET {
+    margin: 20px 0px;
+}
+
+.NewExperience {
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #000000;
+}
+
+.yearDesign {
+  margin: 0px -10px;
+}
+
+.EmployerDays {
+  margin: 0px 22px; 
+}
+
+.misLike {
+  padding-right: 8px;
+}
+.See {
+  text-align: center;
+}
+.SeeMore {
+  font-size: 11px;
+  padding: 10px 35px;
+  background: #ff5400;
+  border: 1px solid #ff5400;
+  border-radius: 4px;
+  color: #fff;
+  
+  font-family: sans-serif;
+}
+
+
+.PageNotFound {
+  text-align: center;
+  font-weight:700;
+  font-size: 60px;
+  color: #7d7c7c;
+}
+
+.Wt img {
+  width: 400px;
+  
+}
+.formOneControl {
+  height:60px;
+  width:250px;
+  margin-left:20px;
+  margin-top:0px;
+  background: #f9fafb;
+  margin-bottom:12px;
+}
+.wolfman {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.MessageParent {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 30px;
+}
+.Sydney {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 50px;
+}
+.Main-content {
+  margin-top:100px;
+  height:500px;
+  width:50%;
+  background:'#f8cfba';
+  color:'#f8cfba';
+}
+.JobSetDetail {
+  font-family: sans-serif;
+  padding: 4px 20px;
+}
+.JobListContent { 
+  font-family: sans-serif;
+}
+@media only screen and (max-width: 520px){
+  .JobListContent {
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+  .JobSetDetail{
+    font-size: 22px;
+    padding: 8px 12px;
+  }
+  .Main-content {
+    margin-top:100px;
+    height:500px;
+    width:100%;
+    background:'#f8cfba';
+    color:'#f8cfba';
+  }
+  .ApplyNow {
+   margin: 20px 0px;
+  }
+  .Adobe button {
+    margin-bottom: 14px;
+  }
+  .SeeMore  {
+    margin-bottom: 35px;
+  }
+  .detailDesign {
+    padding: 8px 16px;
+  }
+  .RightDesigner {
+    max-width: 370px;
+    height: auto;
+  }
+  .Tl-Grape-pera {
+    margin: 0px 12px;
+}
+  .detailDesign button {
+    margin: auto;
+    padding: 0px 25px;
+  }
+  .experience {
+    width: 300px;
+    text-align: justify;
+}
+  .R0w-e {
+    margin: 0px 0px;
+    flex-wrap: wrap;
+  }
+  .Result p { 
+    font-size: 16px;
+  }
+  .Result span { 
+    font-size: 12px;
+  }
+  .bread {
+    margin: 20px 0px;
+    font-size: 12px;
+}
+  .Sydney {
+    padding: 0px;
+  }
+  .MessageParent {
+    padding: 0px;
+  }
+  .Wt img {
+    width: 250px;
+  }
+  .formOneControl {
+    margin-left:0px;
+  }
+  .footerImag img {
+    width: 300px;
+  }
+  .Popular h5 {
+    color: #b3b3b3;
+    margin-left: 12px;
+}
+.peraCreateOne img {
+  width: 200px;
+}
+.profileImg img {
+  width: 200px;
+}
+
+.sideTempo {
+  margin-left: 20px;
+}
+.search_input {
+  width: 340px;
+  max-width: 400px;
+  padding: 25px 12px;
+
+ }
+ .Search-Job {
+  padding: 8px 25px;
+  position: absolute;
+  right: 10px;
+  top: 16px;
+}
+.img2 {
+  width: 425px;
+  height: 325px;
+  margin-top: 12px;
+}
+.ContainColor {
+  margin: 0px 8px;
+  /* width: 96%; */
+}
+.img2 {
+  width: 360px;
+  height: 265px;
+  /* margin-top: 12px; */
+  /* text-align: center; */
+}
+.Col-w {
+  padding: 12px 0px;
+}
+ }
